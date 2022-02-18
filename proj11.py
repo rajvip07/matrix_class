@@ -1,4 +1,3 @@
-#CSE 231 Project 11
 # The purpose of this project is to create a matrix class which can perform 
 #   functions like addition subtraction and multiplication
 # In order to do this, first create a function that initializes the rows
